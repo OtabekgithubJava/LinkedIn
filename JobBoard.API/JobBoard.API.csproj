@@ -16,9 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LibraryManagement.Application\LibraryManagement.Application.csproj" />
-    <ProjectReference Include="..\LibraryManagement.Domain\LibraryManagement.Domain.csproj" />
-    <ProjectReference Include="..\LibraryManagement.Infrastructure\LibraryManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\JobBoard.Application\JobBoard.Application.csproj" />
+    <ProjectReference Include="..\JobBoard.Domain\JobBoard.Domain.csproj" />
+    <ProjectReference Include="..\JobBoard.Infrastructure\JobBoard.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
